@@ -1,5 +1,5 @@
 artifact_uri: file:///Users/toddhendricks/Public/interconnect/mlruns/0/4d0429a6ba6447f99b51e5cba864f832/artifacts
-end_time: null
+end_time: 1609718344999
 entry_point_name: ''
 experiment_id: '0'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1609713734877
-status: 1
+status: 3
 tags: []
 user_id: toddhendricks
