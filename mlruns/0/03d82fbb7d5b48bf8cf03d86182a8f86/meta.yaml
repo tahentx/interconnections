@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/toddhendricks/Public/interconnect/mlruns/0/03d82fbb7d5b48bf8cf03d86182a8f86/artifacts
+end_time: 1609962957482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 03d82fbb7d5b48bf8cf03d86182a8f86
+run_uuid: 03d82fbb7d5b48bf8cf03d86182a8f86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1609962957325
+status: 3
+tags: []
+user_id: toddhendricks
